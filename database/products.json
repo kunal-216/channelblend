@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "name": "Classic Sneakers",
+    "brand": "Urban Style",
+    "price": 79.99,
+    "description": "Comfortable everyday sneakers with classic design",
+    "imageUrl": "/images/sneakers1.jpg"
+  },
+  {
+    "id": "2", 
+    "name": "Running Pro",
+    "brand": "SpeedMax", 
+    "price": 129.99,
+    "description": "High-performance running shoes for athletes",
+    "imageUrl": "/images/sneakers2.jpg"
+  },
+  {
+    "id": "3",
+    "name": "Casual Loafers",
+    "brand": "Comfort Wear",
+    "price": 89.50,
+    "description": "Elegant and comfortable loafers for daily wear",
+    "imageUrl": "/images/loafers1.jpg"
+  }
+] 
